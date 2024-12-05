@@ -1,0 +1,8 @@
+*.h5
+*.csv
+
+footage/
+augmented_images_cctv/
+augmented_images_jenis_sampah/
+images_cctv/
+images_jenis_sampah/
